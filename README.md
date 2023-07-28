@@ -12,3 +12,7 @@ y = 10
 
 # Suma x e y y asigna el resultado a la variable z
 z = x + y
+git checkout main
+git merge [branch-script]
+git add branch-script
+git commit
